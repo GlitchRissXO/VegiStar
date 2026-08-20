@@ -1,2 +1,2 @@
-# Nova
+# VegiStar
 Space Game
